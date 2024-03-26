@@ -5,5 +5,6 @@
 
 int main() {
 	printf("Hello World!\n");
+	printf("I'm Yejin Lee, majoring in Computer Science.");
 	return 0;
 }
