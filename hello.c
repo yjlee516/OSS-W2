@@ -6,6 +6,6 @@
 
 int main() {
 	printf("Hello World!\n");
-	printf("I'm Yejin Lee, majoring in Computer Science.");
+	printf("I'm Yejin Lee, majoring in Computer Science.\n");// 줄바꿈 입력하고 갑니다
 	return 0;
 }
