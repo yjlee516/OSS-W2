@@ -6,6 +6,9 @@
 int main() {
 	printf("Hello World!\n");
 	printf("I'm Yejin Lee, majoring in Computer Science.");
-	printf("학번 : "); //학번도 남겨주시면 좋을 것 같습니다
+=======
+  printf("학번 : "); //학번도 남겨주시면 좋을 것 같습니다
+	printf("Bye!");
+
 	return 0;
 }
