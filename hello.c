@@ -7,7 +7,7 @@ int main() {
 	printf("Hello World!\n");
 	printf("Welcome!\n");
 	printf("I'm Yejin Lee, majoring in Computer Science.\n"); // 줄바꿈 추가했습니다
-	printf("Bye!");
+	printf("Bye!\n");
 
 	return 0;
 }
