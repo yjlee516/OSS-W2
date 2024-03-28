@@ -1,5 +1,4 @@
 // 이예진 202204427 컴퓨터공학전공
-// touched by user2
 // 방문기록 남기고 갑니다 - 정지원
 
 #include <stdio.h>
