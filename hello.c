@@ -9,7 +9,7 @@ int main() {
 	printf("I'm Yejin Lee, majoring in Computer Science.\n"); // 줄바꿈 추가했습니다
 	printf("Bye!\n");
 
-	sqrt(2);
+	printf("%f", sqrt(2));
 	
 	return 0;
 }
