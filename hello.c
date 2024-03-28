@@ -10,6 +10,7 @@ int main() {
 	printf("Bye!\n");
 
 	sqrt(3);
+	fabs(-3);
 	
 	return 0;
 }
